@@ -63,10 +63,3 @@ ul {
   gap: 16px;
 }
 
-.left-items{
-  justify-content: flex-start;
-}
-
-.right-items{
-  justify-content: flex-end;
-}
