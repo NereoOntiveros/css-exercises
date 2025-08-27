@@ -21,6 +21,19 @@ img {
   display: flex;
   justify-content: center;
   gap: 52px;
+  
+}
+
+.plants{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 200px;
+  flex-wrap: wrap;  
+}
+
+.text{
+  text-align: center;
 }
 
 /* do not edit this footer */
