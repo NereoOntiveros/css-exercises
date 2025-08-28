@@ -26,7 +26,7 @@ img {
 
 .plants{
   display: flex;
-  justify-content: center;
+  align-items: center;
   flex-direction: column;
   width: 200px;
   flex-wrap: wrap;  
