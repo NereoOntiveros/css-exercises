@@ -29,28 +29,3 @@ input {
 
 /*-----Solution--------*/
 
-.container{
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-.header, .footer, .left-links, .right-links{
-  display: flex;
-  justify-content: space-between;
-}
-ul{
-  padding: 0;
-  
-}
-li{
-  list-style: none;
-}
-a{
-  text-decoration: none;
-  color:#59636e;
-  font-weight: 500;
-  padding: 8px;
-}
-.left-links, .right-links{
-  
-}
